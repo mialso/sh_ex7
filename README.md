@@ -1,1 +1,1 @@
-# sh_ex7
+### shell exercise 7
